@@ -1,4 +1,4 @@
-# eBay Car Exploration - Dataquest pandas and numpy Exploration
+# eBay Car Exploration (Dataquest pandas and numpy Exploration)
 In this project, I explore data scraped from German eBay car advertisements from early 2016. A more detailed description is included in the jupyter notebook.
 
 
